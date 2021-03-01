@@ -1,0 +1,53 @@
+main, footer{
+       border: 1px solid black;
+       margin: 0 10px;
+     }
+    
+    img {
+      width: 20%;
+      border-radius: 5%;
+      display: block;
+      margin: 5px auto;
+    }
+
+    h1, h2{
+      margin: auto;
+      text-align: center;
+      margin: 5px 0px;
+      background: black;
+      color: white
+      
+    }
+
+    a {
+    display: block; 
+    background: #ecede4; 
+    padding: 1% 1.5%; 
+    text-decoration: none; 
+    border-radius: 3px; 
+    margin: 1% 45%;
+    border: 0px;
+    text-align: center;
+   }
+   a:link{
+  color: black;
+}
+   a:hover {
+    background-color: #333;
+    color: white;
+}
+
+section{
+  text-align: center;
+}
+
+ul{
+  display: inline-block;
+  text-align: left;
+}
+
+footer{
+background: black;
+color: white;
+text-align: center;
+}
