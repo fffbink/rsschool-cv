@@ -17,3 +17,9 @@ served PC, server and web site support.
 + **College of Business and Law**
 teacher • September, 2017.
 teach the database course, system software, computer organization, and web technology. [site](https://brest.kbp.by/)
+# **Education:**
++ BREST STATE TECHNICAL UNIVERSITY
+Artificial Intelligence • June, 2009 — January, 2014
++ Coursera, Stepik, ITVDN, Epam Training
+# English level:
++ A1
